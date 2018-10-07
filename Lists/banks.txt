@@ -32,3 +32,7 @@ Commerzbank
 Banco Bilbao Vizcaya Argentaria
 Lloyds Banking Group
 Dexia Group
+Unicredit
+Buddybank
+N26
+Deutsche Bank
